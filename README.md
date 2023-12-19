@@ -25,7 +25,7 @@
 给脚本执行权限：chmod +x tgbackup.sh
 运行脚本：./tgbackup.sh
 
-##注意事项
+## 注意事项
 确保不要公开你的 Telegram 机器人令牌和聊天 ID
 在使用 rm 命令时务必小心，以避免不必要的数据丢失
 由于 Telegram 机器人 API 的限制，确保每个备份文件不超过 50 MB
